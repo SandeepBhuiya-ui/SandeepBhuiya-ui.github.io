@@ -55,11 +55,13 @@
 ## Projects
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
+![Aerial Semantic Segmentation](https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)
 - Spearheaded a project using Python, TensorFlow, and OpenCV.
 - Achieved 90% accuracy in segmenting over 1,000 drone images for urban planning and agriculture.
 - Applied CNNs and Stochastic Gradient Descent optimization techniques.
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
+![Distracted Driver Detection](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png)
 - Engineered a system leveraging TensorFlow and OpenCV.
 - Trained a Sequential CNN model on 17,939 images.
 - Achieved 99% validation accuracy and enhanced real-time detection capabilities.
