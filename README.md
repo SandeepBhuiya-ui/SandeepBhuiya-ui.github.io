@@ -79,7 +79,7 @@ The primary goal is to classify each pixel in an aerial image into predefined cl
 ---
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
-![Distracted Driver Detection](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png)
+![Distracted Driver Detection](https://global.discourse-cdn.com/cartalk/original/2X/6/6c3dbea072848a827b16bd90b78db6523a629b41.jpeg)
 Driving a car is a difficult undertaking that needs your full focus. Any action that diverts the driver's attention from the road constitutes distracted driving. Numerous studies have distinguished between three basic categories of distraction: visual (driver's eyes off the road), manual (driver's hands off the wheel), and cognitive (driver's head off the task of driving).
 
 #### Objective
