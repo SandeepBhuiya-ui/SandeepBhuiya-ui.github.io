@@ -56,15 +56,62 @@
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
 ![Aerial Semantic Segmentation](https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)
-- Spearheaded a project using Python, TensorFlow, and OpenCV.
-- Achieved 90% accuracy in segmenting over 1,000 drone images for urban planning and agriculture.
-- Applied CNNs and Stochastic Gradient Descent optimization techniques.
+Semantic segmentation for aerial data is a computer vision task that involves dividing an aerial image into meaningful and distinct regions, each corresponding to a specific object or land cover class. Unlike simple object detection, semantic segmentation assigns a class label to every pixel in the image, providing a detailed understanding of the scene.
+
+#### Objective
+The primary goal is to classify each pixel in an aerial image into predefined classes such as roads, buildings, vegetation, water bodies, and other relevant land cover categories.
+
+#### Challenges
+- Varying lighting conditions, shadows, occlusions, and different scales of objects.
+- Handling these challenges requires robust algorithms capable of capturing contextual information and spatial relationships.
+
+#### Applications
+- **Urban Planning**: Analyzing land use patterns, identifying infrastructure, and monitoring urban development.
+- **Precision Agriculture**: Identifying crop types and health to optimize resource allocation and improve yield.
+- **Environmental Monitoring**: Monitoring changes in natural landscapes.
+- **Disaster Response**: Assessing damage after natural disasters by identifying affected areas and infrastructure.
+
+#### Techniques
+- **Convolutional Neural Networks (CNNs)**: Models like U-Net, SegNet, and DeepLab adapted for aerial imagery.
+- **Transfer Learning**: Fine-tuning pre-trained models on large datasets for aerial data.
+- **Spatial Context Modeling**: Techniques like dilated convolutions and atrous spatial pyramid pooling for large receptive fields.
+
+---
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
 ![Distracted Driver Detection](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png)
-- Engineered a system leveraging TensorFlow and OpenCV.
-- Trained a Sequential CNN model on 17,939 images.
-- Achieved 99% validation accuracy and enhanced real-time detection capabilities.
+Driving a car is a difficult undertaking that needs your full focus. Any action that diverts the driver's attention from the road constitutes distracted driving. Numerous studies have distinguished between three basic categories of distraction: visual (driver's eyes off the road), manual (driver's hands off the wheel), and cognitive (driver's head off the task of driving).
+
+#### Data
+- **Dataset**: StateFarm dataset containing snapshots from a video captured by a camera mounted in the car.
+- **Training Set**: ~22.4K labeled samples with equal distribution among the classes and 79.7K unlabeled test samples.
+- **Classes**: 
+  - c0: safe driving
+  - c1: texting - right
+  - c2: talking on the phone - right
+  - c3: texting - left
+  - c4: talking on the phone - left
+  - c5: operating the radio
+  - c6: drinking
+  - c7: reaching behind
+  - c8: hair and makeup
+  - c9: talking to passenger
+
+#### Assessment Metric
+- **Log Loss**: Measures the degree of certainty with which we label a driver's behaviour as distracted, crucial for model effectiveness.
+
+#### Adaptive Learning
+- **Transfer Learning**: Reusing model weights from pre-trained models on well-known computer vision benchmark datasets.
+- **Technology Used**: 
+  - **Python Libraries**: OpenCV, TensorFlow, Scikit-Learn, Pandas
+  - **Computer Vision Techniques**: CNN, Data Augmentation, Transfer Learning
+
+#### CNN Model Architecture
+- **Layers**:
+  - 3 Convolutional layers (with ReLU, MaxPooling, and Dropout)
+  - A flatten layer
+  - 2 Dense layers with ReLU and Dropouts
+  - 1 Dense layer with softmax for classification
 
 ---
 
