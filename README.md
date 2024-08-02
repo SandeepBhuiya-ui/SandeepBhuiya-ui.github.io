@@ -31,7 +31,7 @@
 ## Work Experience
 
 ### WARP, Los Angeles, California  
-**Data Science Intern | May 2024 - August 2024**  
+**Data Science Intern | May 2023 - Present**  
 - Managed key data preprocessing tasks, cleansing and structuring 500,000+ data points.
 - Performed advanced SQL queries for insightful freight logistics analysis.
 - Boosted route optimization efficiency by 8% using time-series analysis and K-Means clustering.
@@ -55,14 +55,49 @@
 ## Projects
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
-- Spearheaded a project using Python, TensorFlow, and OpenCV.
-- Achieved 90% accuracy in segmenting over 1,000 drone images for urban planning and agriculture.
-- Applied CNNs and Stochastic Gradient Descent optimization techniques.
+![Aerial Semantic Segmentation](https://miro.medium.com/v2/resize:fit:1037/1*flwnS_2FbxQIzioIOke-wg.png)
+Semantic segmentation for aerial data is a computer vision task that involves dividing an aerial image into meaningful and distinct regions, each corresponding to a specific object or land cover class. Unlike simple object detection, semantic segmentation assigns a class label to every pixel in the image, providing a detailed understanding of the scene.
+
+#### Objective
+The primary goal is to classify each pixel in an aerial image into predefined classes such as roads, buildings, vegetation, water bodies, and other relevant land cover categories.
+
+#### Challenges
+- Varying lighting conditions, shadows, occlusions, and different scales of objects.
+- Handling these challenges requires robust algorithms capable of capturing contextual information and spatial relationships.
+
+#### Applications
+- **Urban Planning**: Analyzing land use patterns, identifying infrastructure, and monitoring urban development.
+- **Precision Agriculture**: Identifying crop types and health to optimize resource allocation and improve yield.
+- **Environmental Monitoring**: Monitoring changes in natural landscapes.
+- **Disaster Response**: Assessing damage after natural disasters by identifying affected areas and infrastructure.
+
+#### Techniques
+- **Convolutional Neural Networks (CNNs)**: Models like U-Net, SegNet, and DeepLab adapted for aerial imagery.
+- **Transfer Learning**: Fine-tuning pre-trained models on large datasets for aerial data.
+- **Spatial Context Modeling**: Techniques like dilated convolutions and atrous spatial pyramid pooling for large receptive fields.
+
+---
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
-- Engineered a system leveraging TensorFlow and OpenCV.
-- Trained a Sequential CNN model on 17,939 images.
-- Achieved 99% validation accuracy and enhanced real-time detection capabilities.
+![Distracted Driver Detection](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png)
+Driving a car is a difficult undertaking that needs your full focus. Any action that diverts the driver's attention from the road constitutes distracted driving. Numerous studies have distinguished between three basic categories of distraction: visual (driver's eyes off the road), manual (driver's hands off the wheel), and cognitive (driver's head off the task of driving).
+
+#### Objective
+The primary goal is to automatically detect distracted driving behaviors using computer vision techniques and notify drivers to reduce accidents caused by inattentive driving.
+
+#### Challenges
+- Handling diverse lighting conditions, angles, and positions of the driver.
+- Distinguishing between various types of distractions accurately.
+
+#### Applications
+- **Safety Enforcement**: Enhancing in-car safety systems to alert drivers when distracted.
+- **Accident Prevention**: Reducing the number of accidents caused by distracted driving through real-time alerts.
+- **Insurance**: Providing data for insurance companies to assess driver behavior.
+
+#### Techniques
+- **Convolutional Neural Networks (CNNs)**: Used for feature extraction and classification.
+- **Transfer Learning**: Reusing model weights from pre-trained models on well-known computer vision benchmark datasets.
+- **Data Augmentation**: Techniques like rotation, flipping, and scaling to enhance model generalization.
 
 ---
 
