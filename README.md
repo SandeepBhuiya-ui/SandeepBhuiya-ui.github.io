@@ -31,7 +31,7 @@
 ## Work Experience
 
 ### WARP, Los Angeles, California  
-**Data Science Intern | May 2023 - Present**  
+**Data Science Intern | May 2024 - August 2024**  
 - Managed key data preprocessing tasks, cleansing and structuring 500,000+ data points.
 - Performed advanced SQL queries for insightful freight logistics analysis.
 - Boosted route optimization efficiency by 8% using time-series analysis and K-Means clustering.
