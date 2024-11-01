@@ -8,7 +8,7 @@
 
 ---
 
-## Education
+## 🎓 Education
 
 **University of Minnesota, Twin Cities**  
 *Master of Science in Data Science*  
@@ -20,7 +20,7 @@
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 **Programming Languages**: Java, Python, C, C++, R, SQL, Julia  
 **Technologies**: Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Azure, PySpark, Databricks, Spark, AWS, Git, Bash, Google Cloud, BigQuery, DBT, PowerBI  
@@ -28,7 +28,7 @@
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 ### WARP, Los Angeles, California  
 **Data Science Intern | May 2023 - Present**  
@@ -52,18 +52,18 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
 ![Aerial Semantic Segmentation](https://miro.medium.com/v2/resize:fit:1037/1*flwnS_2FbxQIzioIOke-wg.png)
-Semantic segmentation for aerial data is a computer vision task that involves dividing an aerial image into meaningful and distinct regions, each corresponding to a specific object or land cover class. Unlike simple object detection, semantic segmentation assigns a class label to every pixel in the image, providing a detailed understanding of the scene.
+Semantic segmentation for aerial data is a computer vision task that involves dividing an aerial image into meaningful and distinct regions, each corresponding to a specific object or land cover class.
 
 #### Objective
-The primary goal is to classify each pixel in an aerial image into predefined classes such as roads, buildings, vegetation, water bodies, and other relevant land cover categories.
+Classify each pixel in an aerial image into predefined classes such as roads, buildings, vegetation, water bodies, and other relevant land cover categories.
 
 #### Challenges
 - Varying lighting conditions, shadows, occlusions, and different scales of objects.
-- Handling these challenges requires robust algorithms capable of capturing contextual information and spatial relationships.
+- Requires robust algorithms capable of capturing contextual information and spatial relationships.
 
 #### Applications
 - **Urban Planning**: Analyzing land use patterns, identifying infrastructure, and monitoring urban development.
@@ -80,10 +80,10 @@ The primary goal is to classify each pixel in an aerial image into predefined cl
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
 ![Distracted Driver Detection](https://pub.mdpi-res.com/sensors/sensors-21-07424/article_deploy/html/images/sensors-21-07424-g001.png?1636621189)
-Driving a car is a difficult undertaking that needs your full focus. Any action that diverts the driver's attention from the road constitutes distracted driving. Numerous studies have distinguished between three basic categories of distraction: visual (driver's eyes off the road), manual (driver's hands off the wheel), and cognitive (driver's head off the task of driving).
+Distracted driving detection leverages computer vision to identify distracted driving behaviors automatically, enhancing in-car safety systems and reducing road accidents.
 
 #### Objective
-The primary goal is to automatically detect distracted driving behaviors using computer vision techniques and notify drivers to reduce accidents caused by inattentive driving.
+Automatically detect distracted driving behaviors using computer vision techniques and notify drivers to reduce accidents caused by inattentive driving.
 
 #### Challenges
 - Handling diverse lighting conditions, angles, and positions of the driver.
