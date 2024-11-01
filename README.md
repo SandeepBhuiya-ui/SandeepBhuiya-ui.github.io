@@ -1,30 +1,38 @@
 # Sandeep Bhuiya
 
-📍 **Minneapolis, MN**  
-📧 **Email**: sandeepbhuiya.2001@gmail.com  
+📍 **Location**: Minneapolis, MN  
+📧 **Email**: [sandeepbhuiya.2001@gmail.com](mailto:sandeepbhuiya.2001@gmail.com)  
 📞 **Phone**: (510)-377-2297  
 🔗 **LinkedIn**: [Sandeep Bhuiya](https://www.linkedin.com/in/sandeep-bhuiya/)  
 🔗 **GitHub**: [SandeepBhuiya-ui](https://github.com/SandeepBhuiya-ui)  
 
 ---
 
+## About Me
+
+Hello! I'm Sandeep Bhuiya, a passionate data scientist with expertise in machine learning, data preprocessing, and statistical modeling. Currently, I’m a Master's student in Data Science at the University of Minnesota, honing my skills and expanding my knowledge in advanced data science techniques and tools.
+
+With hands-on experience in building data solutions that drive insights and optimize processes, I specialize in predictive analytics, NLP, computer vision, and data visualization. My work is fueled by curiosity and a commitment to translating data into meaningful insights that lead to actionable results.
+
+---
+
 ## 🎓 Education
 
-**University of Minnesota, Twin Cities**  
-*Master of Science in Data Science*  
-*GPA: 3.6 | May 2025*  
+### University of Minnesota, Twin Cities  
+**Master of Science in Data Science**  
+*GPA: 3.6 | Expected Graduation: May 2025*  
 
-**SRM Institute of Science and Technology**  
-*Bachelor of Technology in Computer Science*  
-*GPA: 4.0 | May 2023*  
+### SRM Institute of Science and Technology  
+**Bachelor of Technology in Computer Science**  
+*GPA: 4.0 | Graduated: May 2023*  
 
 ---
 
 ## 🛠️ Skills
 
-**Programming Languages**: Java, Python, C, C++, R, SQL, Julia  
-**Technologies**: Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Azure, PySpark, Databricks, Spark, AWS, Git, Bash, Google Cloud, BigQuery, DBT, PowerBI  
-**Tools**: Jupyter Notebook, Visual Studio Code (VS Code), Anaconda, GitHub, Excel, Docker  
+- **Programming Languages**: Java, Python, C, C++, R, SQL, Julia  
+- **Technologies**: Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Azure, PySpark, Databricks, Spark, AWS, Git, Bash, Google Cloud, BigQuery, DBT, PowerBI  
+- **Tools**: Jupyter Notebook, Visual Studio Code (VS Code), Anaconda, GitHub, Excel, Docker  
 
 ---
 
@@ -32,23 +40,16 @@
 
 ### WARP, Los Angeles, California  
 **Data Science Intern | May 2023 - Present**  
-- Managed key data preprocessing tasks, cleansing and structuring 500,000+ data points.
-- Performed advanced SQL queries for insightful freight logistics analysis.
-- Boosted route optimization efficiency by 8% using time-series analysis and K-Means clustering.
-- Applied NLP for efficient zip code-company matching to enhance distribution network density.
-- Transformed and upgraded data dashboards in PowerBI and Tableau, increasing stakeholder engagement by 3%.
-
-### Bit Brothers, Bengaluru, India  
-**ML Research Assistant | Jan 2023 - Aug 2023**  
-- Analyzed 10+ academic articles on NLP and OCR technologies, proposing context-aware recognition enhancements.
-- Enhanced text extraction accuracy from images by 2% using Hugging Face's NLP models with OCR technology.
-- Optimized text recognition from images, achieving a 3% increase in processing speed for 10,000+ samples.
+- **Enhanced data processing** by cleansing and structuring over 500,000 data points, improving data readiness by 15%.
+- **Optimized freight logistics** by performing advanced SQL queries and applying time-series analysis, resulting in an 8% boost in route efficiency.
+- **Applied NLP techniques** for zip code-company matching, enhancing distribution network density.
+- **Transformed data dashboards** in PowerBI and Tableau, resulting in a 3% increase in stakeholder engagement.
 
 ### Ikshan, Bengaluru, India  
 **Data Science Intern | Nov 2022 - Jan 2023**  
-- Enhanced image object detection models via Stochastic Gradient Descent (SGD) optimization, increasing detection speed by 10%.
-- Improved the YOLO algorithm, leading to a 4% precision boost and a 5% speed increase.
-- Enhanced CNN algorithm for contour box detection, increasing efficiency by 6%.
+- **Boosted object detection model efficiency** by 10% through SGD optimization.
+- **Refined the YOLO algorithm**, leading to a 4% precision boost and a 5% speed increase.
+- **Enhanced contour box detection algorithms** with CNN, improving pipeline efficiency by 6%.
 
 ---
 
@@ -56,49 +57,33 @@
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
 ![Aerial Semantic Segmentation](https://miro.medium.com/v2/resize:fit:1037/1*flwnS_2FbxQIzioIOke-wg.png)
-Semantic segmentation for aerial data is a computer vision task that involves dividing an aerial image into meaningful and distinct regions, each corresponding to a specific object or land cover class.
 
-#### Objective
-Classify each pixel in an aerial image into predefined classes such as roads, buildings, vegetation, water bodies, and other relevant land cover categories.
-
-#### Challenges
-- Varying lighting conditions, shadows, occlusions, and different scales of objects.
-- Requires robust algorithms capable of capturing contextual information and spatial relationships.
-
-#### Applications
-- **Urban Planning**: Analyzing land use patterns, identifying infrastructure, and monitoring urban development.
-- **Precision Agriculture**: Identifying crop types and health to optimize resource allocation and improve yield.
-- **Environmental Monitoring**: Monitoring changes in natural landscapes.
-- **Disaster Response**: Assessing damage after natural disasters by identifying affected areas and infrastructure.
-
-#### Techniques
-- **Convolutional Neural Networks (CNNs)**: Models like U-Net, SegNet, and DeepLab adapted for aerial imagery.
-- **Transfer Learning**: Fine-tuning pre-trained models on large datasets for aerial data.
-- **Spatial Context Modeling**: Techniques like dilated convolutions and atrous spatial pyramid pooling for large receptive fields.
-
----
+**Description**: This project involves classifying each pixel in aerial images into predefined classes such as roads, buildings, vegetation, and water bodies using semantic segmentation models like U-Net.  
+**Objective**: To aid urban planning, precision agriculture, and disaster response through high-accuracy image segmentation.  
+**Techniques Used**: CNNs, Transfer Learning, Spatial Context Modeling  
 
 ### [Distracted Driver Detection](https://github.com/SandeepBhuiya-ui/Distracted-Driver-Detection)
 ![Distracted Driver Detection](https://pub.mdpi-res.com/sensors/sensors-21-07424/article_deploy/html/images/sensors-21-07424-g001.png?1636621189)
-Distracted driving detection leverages computer vision to identify distracted driving behaviors automatically, enhancing in-car safety systems and reducing road accidents.
 
-#### Objective
-Automatically detect distracted driving behaviors using computer vision techniques and notify drivers to reduce accidents caused by inattentive driving.
-
-#### Challenges
-- Handling diverse lighting conditions, angles, and positions of the driver.
-- Distinguishing between various types of distractions accurately.
-
-#### Applications
-- **Safety Enforcement**: Enhancing in-car safety systems to alert drivers when distracted.
-- **Accident Prevention**: Reducing the number of accidents caused by distracted driving through real-time alerts.
-- **Insurance**: Providing data for insurance companies to assess driver behavior.
-
-#### Techniques
-- **Convolutional Neural Networks (CNNs)**: Used for feature extraction and classification.
-- **Transfer Learning**: Reusing model weights from pre-trained models on well-known computer vision benchmark datasets.
-- **Data Augmentation**: Techniques like rotation, flipping, and scaling to enhance model generalization.
+**Description**: Developed a real-time detection system for distracted driving behaviors using CNNs.  
+**Objective**: Increase road safety by identifying distracted driving activities and alerting drivers.  
+**Techniques Used**: CNNs, Transfer Learning, Data Augmentation  
 
 ---
 
-Feel free to explore my repositories for more details on these projects and my contributions.
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepBhuiya-ui&layout=compact&theme=dark)](https://github.com/SandeepBhuiya-ui)
+
+---
+
+## Contact
+
+I am open to new opportunities and collaborations in data science, machine learning, and AI. Please feel free to reach out to me!
+
+📧 **[Email Me](mailto:sandeepbhuiya.2001@gmail.com)**  
+📞 **Phone**: (510)-377-2297  
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories to learn more about my work and contributions.
