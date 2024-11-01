@@ -1,4 +1,11 @@
-title: Sandeep Bhuiya
-#description: 
-show_downloads: False
+title: "Sandeep Bhuiya"
+description: "Data Scientist | Machine Learning Enthusiast | Tech Innovator"
+show_downloads: false
 theme: jekyll-theme-minimal
+
+# Social Links
+github_username: SandeepBhuiya-ui
+linkedin_username: sandeep-bhuiya
+email: sandeepbhuiya.2001@gmail.com
+phone: "(510) 377-2297"
+location: Minneapolis, MN
