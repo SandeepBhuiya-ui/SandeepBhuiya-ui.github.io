@@ -5,16 +5,26 @@
 📞 **Phone**: (510)-377-2297  
 🔗 **LinkedIn**: [Sandeep Bhuiya](https://www.linkedin.com/in/sandeep-bhuiya/)  
 🔗 **GitHub**: [SandeepBhuiya-ui](https://github.com/SandeepBhuiya-ui)  
-📄 [Download Resume](https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing)  
+📄 **[Download Resume](https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing)**  
 
 ---
 
-## [About Me](#about-me)
+## Contents
+- [About Me](#about-me)
+- [Education](#education)
+- [Skills](#skills)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+- [Download Resume](#download-resume)
+
+---
+
+## About Me
 I am Sandeep Bhuiya, a data scientist with expertise in machine learning, data preprocessing, and statistical modeling. Currently pursuing my Master’s in Data Science at the University of Minnesota, I specialize in building data-driven solutions that optimize processes and provide actionable insights.
 
 ---
 
-## [Education](#education)
+## Education
 
 ### University of Minnesota, Twin Cities  
 **Master of Science in Data Science**  
@@ -26,7 +36,7 @@ I am Sandeep Bhuiya, a data scientist with expertise in machine learning, data p
 
 ---
 
-## [Skills](#skills)
+## Skills
 
 - **Programming Languages**: Java, Python, C, C++, R, SQL, Julia  
 - **Technologies**: Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Azure, PySpark, Databricks, Spark, AWS, Git, Bash, Google Cloud, BigQuery, DBT, PowerBI  
@@ -34,7 +44,7 @@ I am Sandeep Bhuiya, a data scientist with expertise in machine learning, data p
 
 ---
 
-## [Work Experience](#work-experience)
+## Work Experience
 
 ### WARP, Los Angeles, California  
 **Data Science Intern | May 2023 - Present**  
@@ -49,7 +59,7 @@ I am Sandeep Bhuiya, a data scientist with expertise in machine learning, data p
 
 ---
 
-## [Projects](#projects)
+## Projects
 
 ### [Aerial Semantic Segmentation](https://github.com/SandeepBhuiya-ui/Semantic-Segmentation-for-Aerial-Data)
 ![Aerial Semantic Segmentation](https://miro.medium.com/v2/resize:fit:1037/1*flwnS_2FbxQIzioIOke-wg.png)
@@ -69,6 +79,9 @@ I am Sandeep Bhuiya, a data scientist with expertise in machine learning, data p
 
 ---
 
-## [Download Resume](https://drive.google.com/your-resume-link)
+## Download Resume
+📄 [Download Resume](https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing)
+
+---
 
 Thank you for visiting! Feel free to explore my repositories and connect with me.
