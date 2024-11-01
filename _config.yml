@@ -1,7 +1,7 @@
 title: "Sandeep Bhuiya"
 description: "Data Scientist | Machine Learning Enthusiast | Tech Innovator"
+theme: jekyll-theme-cayman
 show_downloads: false
-theme: jekyll-theme-minimal
 
 # Social Links
 github_username: SandeepBhuiya-ui
@@ -9,3 +9,6 @@ linkedin_username: sandeep-bhuiya
 email: sandeepbhuiya.2001@gmail.com
 phone: "(510) 377-2297"
 location: Minneapolis, MN
+
+# Custom Links
+resume_url: "https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing"  # Add your actual Drive link
