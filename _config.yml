@@ -1,7 +1,13 @@
+# Portfolio Configuration
 title: "Sandeep Bhuiya"
 description: "Data Scientist | Machine Learning Enthusiast | Tech Innovator"
 theme: jekyll-theme-cayman
 show_downloads: false
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
 
 # Social Links
 github_username: SandeepBhuiya-ui
@@ -11,4 +17,9 @@ phone: "(510) 377-2297"
 location: Minneapolis, MN
 
 # Custom Links
-resume_url: "https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing"  # Add your actual Drive link
+resume_url: "https://drive.google.com/file/d/1j2EJygBVpi-juM9DW2MU3JcvOGw_7YKC/view?usp=sharing"  # Link to downloadable resume
+
+# Custom Styling
+sass:
+  load_paths:
+    - assets/css
